@@ -8,8 +8,8 @@ build-backend = "hatchling.build"
 [project]
 name = "modoturbo"
 version = "1.3.0"
-description = "Generate short videos from prompts, local assets, subtitles, and TTS."
-readme = "README-en.md"
+description = "Gerador de vídeos curtos com IA em português: roteiro por LLM, narração brasileira (TTS), legendas sincronizadas e música para TikTok, Reels e YouTube Shorts."
+readme = "README-pt-br.md"
 requires-python = ">=3.11,<3.13"
 license = { text = "MIT" }
 dependencies = [

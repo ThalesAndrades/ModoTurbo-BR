@@ -74,9 +74,61 @@ Shorts e YouTube. Tudo rodando no seu computador.
 - **[Documentação completa em português](README-pt-br.md)** — instalação manual, Docker, Colab, vozes, legendas e perguntas frequentes
 - [Detalhes do instalador DEMO](instaladores/README.md) — o que ele faz, código-fonte auditável e como obter a versão completa
 
+## ❓ Perguntas frequentes
+
+<details>
+<summary><b>Como criar vídeos para TikTok, Reels e YouTube Shorts automaticamente com IA?</b></summary>
+
+Com o ModoTurbo você digita apenas o **assunto do vídeo** (por exemplo, "curiosidades sobre o espaço")
+e a inteligência artificial faz o resto: escreve o roteiro, narra com voz brasileira, busca os vídeos
+de fundo, sincroniza as legendas e entrega o arquivo final em alta definição, no formato vertical
+9:16 pronto para postar.
+</details>
+
+<details>
+<summary><b>O ModoTurbo é um gerador de vídeos com IA grátis?</b></summary>
+
+A versão DEMO é gratuita e gera vídeos completos com narração e legendas em português usando um
+provedor de IA gratuito. Os vídeos de fundo vêm do Pexels, que também oferece chave de API gratuita.
+A Ferramenta BR Completa, com todos os provedores de IA e suporte, é uma oferta comercial da
+THM TECNOLOGIA.
+</details>
+
+<details>
+<summary><b>A narração é em português do Brasil?</b></summary>
+
+Sim. O ModoTurbo usa vozes neurais brasileiras naturais e gratuitas (como Francisca e Antonio),
+e as legendas são geradas em português, sincronizadas com a fala.
+</details>
+
+<details>
+<summary><b>Preciso saber editar vídeo?</b></summary>
+
+Não. Todo o processo — roteiro, narração, corte dos vídeos de fundo, legendas e música — é
+automático. Você só escolhe o assunto e as preferências (voz, fonte da legenda, música) na
+interface em português.
+</details>
+
+<details>
+<summary><b>Funciona no meu computador?</b></summary>
+
+Sim: Windows com instalador de 1 clique (a DEMO instala Python, dependências e cria o atalho
+sozinha), e também macOS e Linux pela instalação manual ou Docker. Não precisa de placa de vídeo —
+e quem tem GPU pode acelerar a renderização.
+</details>
+
+<details>
+<summary><b>Os vídeos têm direitos autorais?</b></summary>
+
+Os vídeos de fundo vêm de bancos gratuitos e livres de royalties (Pexels e Pixabay). O roteiro é
+gerado por IA para o seu assunto, e a narração é sintetizada — você é responsável por revisar o
+conteúdo antes de publicar.
+</details>
+
 ## 📝 Licença e créditos
 
-O software base (ModoTurbo, de [harry0703](https://github.com/harry0703/MoneyPrinterTurbo)) é
+O software base ([MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo), de
+[harry0703](https://github.com/harry0703)) é
 distribuído sob a licença [MIT](LICENSE). Os instaladores, a localização brasileira e o pacote de
 distribuição BR são de autoria da **THM TECNOLOGIA** (MIT com manutenção obrigatória do aviso de
 autoria). Os serviços de instalação assistida, acesso via iPhone e suporte são ofertas comerciais da
